@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(48, 70, 77);
+  font-family: 'Lato';
+  line-height: 1.5;
+  margin: auto;
+  max-width: 1000px;
+  color: white;
+}
+
+h1, h2 {
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  color: coral;
+}
+
+.configurar {
+  margin-left: 60px;
+  width: 25%;
+}
+
+div {
+  display: inline-block;
+  width: 500px;
+}
+
+#alinhar {
+  background-color: rgb(24, 37, 41);
+  text-align: center;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+#botao {
+  background-color: #032530;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  font-family: 'Lato';
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: -0.6px;
+  line-height: 15px;
+  padding: 9px 23px;
+  transform: translate(100%);
+}
